@@ -34,7 +34,7 @@ Realtime chat written with AngularJS + Firebase.
 
 An version of the TodoMVC in AngularJS which has been modifed to use Firebase as a backend. 
 
-[Live Demo](http://todomvc.com/labs/architecture-examples/firebase-angular/)
+[Live Demo](http://todomvc.com/examples/firebase-angular/#/)
 
 ### [Crowdsourced Fog](/Crowdsourced-fog)
 
